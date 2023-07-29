@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="cover.gif" alt="pelumi-guy" /> </p>
 
-<h3 align="center">I am a highly motivated, result-oriented software engineer, proficient in working with a variety of technology and software tools with a strong ability to learn new technologies quickly.</h3>
+<h4 align="center">I am a highly motivated, result-oriented software engineer, proficient in working with a variety of technology and software tools with a strong ability to learn new technologies quickly.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pelumi-guy&label=Profile%20views&color=0e75b6&style=flat" alt="pelumi-guy" /> </p>
 
